@@ -67,6 +67,7 @@ function reiniciarJogo() {
 
 
 
+module.exports = { gerarNumeroAleatorio };
 
 
 
